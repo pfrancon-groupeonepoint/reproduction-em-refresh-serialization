@@ -11,8 +11,9 @@
   "author": "Martin Adamek",
   "license": "MIT",
   "dependencies": {
-    "@mikro-orm/core": "next",
-    "@mikro-orm/sqlite": "next",
+    "@mikro-orm/core": "6.6.3",
+    "@mikro-orm/postgresql": "6.6.3",
+    "mikro-orm-pglite": "^0.5.1",
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
